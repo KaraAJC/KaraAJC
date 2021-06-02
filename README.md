@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey gurl hay, it's Kara! 👋
 
-<!--
-**KaraAJC/KaraAJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+**😄 Pronouns:** She/They
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💬 Ask me about:** Write/Speak/Code, or Tropikara!🏝
+
+**📫 How to reach me:** holla@kara.codes, or [say hi on twitter](https://twitter.com/KaraAJC)
+
+**⚡ Fun fact:** I was the Star of a Singing Christmas Tree 🌟
+
+## What's Goin on
+
+**🔭 I’m currently working on...** being gentle with myself
+
+**🌱 I’m currently learning...** how to write accessible code
+
+**👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy
+
+**🤔 I’m looking for help with...** finding more cool folks to come work with me!
+
+### Current Jams:
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&redirect=true)
