@@ -21,4 +21,6 @@
 **🤔 I’m looking for help with...** finding more cool folks to come work with me!
 
 ### Current Jams:
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&redirect=true)
+
+*See you on the interwebs!*
