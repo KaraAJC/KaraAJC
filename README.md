@@ -4,7 +4,7 @@
 
 **😄 Pronouns:** She/They
 
-**💬 Ask me about:** Write/Speak/Code, or Tropikara!🏝
+**💬 Ask me about:** Write/Speak/Code, TXI, or Tropikara!🏝
 
 **📫 How to reach me:** holla@kara.codes, or [say hi on twitter](https://twitter.com/KaraAJC)
 
@@ -14,7 +14,7 @@
 
 **🔭 I’m currently working on...** being gentle with myself
 
-**🌱 I’m currently learning...** how to write accessible code
+**🌱 I’m currently learning...** Python and ELT Data patterns with DBT tool
 
 **👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy
 
