@@ -18,7 +18,7 @@
 
 **👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy
 
-**🤔 I’m looking for help with...** finding more cool folks to come work with me!
+**🤔 I’m looking for help with...** finding more cool folks to [come work with me!](https://jobs.lever.co/txidigital?lever-via=0mZDFctS_A)
 
 ### Current Jams:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&redirect=true)
