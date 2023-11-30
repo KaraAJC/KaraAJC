@@ -14,7 +14,7 @@
 
 **🔭 I’m currently working on...** being gentle with myself
 
-**🌱 I’m currently learning...** Python and ELT Data patterns with DBT tool
+**🌱 I’m currently learning...** React Test Library, and how to write accessible react code
 
 **👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy
 
