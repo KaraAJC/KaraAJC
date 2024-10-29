@@ -4,7 +4,7 @@
 
 **😄 Pronouns:** She/They
 
-**💬 Ask me about:** Write/Speak/Code, TXI, or Tropikara!🏝
+**💬 Ask me about:** Unicode, Write/Speak/Code, TXI, or Tropikara!🏝
 
 **📫 How to reach me:** holla@kara.codes, or [say hi on twitter](https://twitter.com/KaraAJC)
 
@@ -21,6 +21,6 @@
 **🤔 I’m looking for help with...** finding more cool folks to [come work with me!](https://jobs.lever.co/txidigital?lever-via=0mZDFctS_A)
 
 ### Current Jams:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karaajc&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com/api/view?uid=karaajc&redirect=true)
 
 *See you on the interwebs!*
