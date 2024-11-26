@@ -6,17 +6,17 @@
 
 **💬 Ask me about:** Unicode, Write/Speak/Code, TXI, or Tropikara!🏝
 
-**📫 How to reach me:** holla@kara.codes, or [say hi on twitter](https://twitter.com/KaraAJC)
+**📫 How to reach me:** holla@kara.codes, or [say hi on Bluesky](https://bsky.app/profile/karaajc.bsky.social)
 
 **⚡ Fun fact:** I was the Star of a Singing Christmas Tree 🌟
 
 ## What's Goin on
 
-**🔭 I’m currently working on...** being gentle with myself
+**🔭 I’m currently working on...** living in joy
 
-**🌱 I’m currently learning...** React Test Library, and how to write accessible react code
+**🌱 I’m currently learning...** typescript, graphQL Cypher Queries, and how to write accessible react code
 
-**👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy
+**👯 I’m looking to collaborate on...** projects that dismantle white supremacy, or ones that give me joy, lets Craft!
 
 **🤔 I’m looking for help with...** finding more cool folks to [come work with me!](https://jobs.lever.co/txidigital?lever-via=0mZDFctS_A)
 
